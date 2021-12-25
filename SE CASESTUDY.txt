@@ -1,0 +1,35 @@
+“provide clear expectations for instruction, assessment, and student work. They define the level of work that demonstrates achievement of the standards, enabling a teacher to know 'how good is good enough.   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+This student performance analysis system provides an easy way to students in searching the details of projects, academic attendance report and marks/percentage details the with graph. Students can search the projects with project title or using guide name or with the academic year. All the details of the projects and details of student’s attendance and marks are added by the Teachers and HODs. It has 3 Modules namely Student, Teacher and HOD. Students are asked to register and then login, fills the academic details, view projects, view attendance, marks in graph-based format, events and notice. Teachers can login, approve students, Add Students marks, Upload attendance, add Project details, view assigned events and notice. HOD can login, manage teachers report, events, they can view attendance and academic details and manage notice. Basically, this system can help to maintain and manage the records of students, teachers, events of college, projects, attendance and more 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Advantages 
+
+    It helps in maintaining students’ records 
+
+    It helps teacher to get their assigned work 
+
+    Easy way of displaying notice. 
+
+Comparing course performance of student groups. Now, users wish to compare and investigate different student groups’ course performance. In this case study, users want to see whether students in the Control Cohort with AR score of 5 or above, who demonstrate the same characteristics as the S&E Scholars but did not join the program, perform similarly to students in the Scholars Cohort with AR score of 5 or above, especially how many students got a C or below course grade in each cohort. This case study covers the design requirement R4. 
+
+By checking “Control Cohort” and “AR 
+
+5” filters on the right-side of DEGP, users filter out the students who do not satisfy the condition. The remaining student pathways are the group of students users want to examine. Users then select “Course Letter Grade” from the drop-down list on the top-right corner to color the student pathways by their final course grade; light blue color represents students with course grades above C and red color represents students with course grades C or below. Then, by examining the bar chart on the right of DEGP, users can directly know the statistics of the students showing in DEGP. It is not difficult for users to find that 19.0% of the students who belong to the Control Cohort with AR score above 5 received a course grade of C or below,  Users also observe that only 10.3% of the students who belong to the Scholars Cohort with AR score above 5 received C or below on their final course grade, As a result, users conclude that the smaller class size and extra tutorial sessions offered in the S&E scholar program had a positive impact on the students’ performance. 
